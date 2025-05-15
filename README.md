@@ -25,5 +25,6 @@
 | 날짜       | 문제 제목                  | 난이도   | 풀이 링크                              | 비고        |
 |------------|----------------------------|----------|----------------------------------------|------------|
 | 2025-05-12 | H-Index                | 2     | https://school.programmers.co.kr/learn/courses/30/lessons/42747 | 정렬 |
-| 2025-05-13 | 의상                      | 2     | https://school.programmers.co.kr/learn/courses/30/lessons/42578 | 해시 |
-   |
+| 2025-05-12 | 의상                      | 2     | https://school.programmers.co.kr/learn/courses/30/lessons/42578 | 해시 |
+| 2025-05-13 | 전화번호목록                      | 2     | https://school.programmers.co.kr/learn/courses/30/lessons/42577 | 해시 |
+| 2025-05-13 | 베스트앨범                      | 3     | https://school.programmers.co.kr/learn/courses/30/lessons/42579 | 해시 |
