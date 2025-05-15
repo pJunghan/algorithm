@@ -24,6 +24,9 @@
 ### 박정한
 | 날짜       | 문제 제목                  | 난이도   | 풀이 링크                              | 비고        |
 |------------|----------------------------|----------|----------------------------------------|------------|
-| 2025-05-12 | 카펫                | 2     | https://school.programmers.co.kr/learn/courses/30/lessons/42842 | 완전탐색 |
-| 2025-05-13 | 영어 끝말잇기                      | 2     | https://school.programmers.co.kr/learn/courses/30/lessons/12981| 완전탐색 |
-   |
+| 2025-05-12 | 카펫                        | 2     | https://school.programmers.co.kr/learn/courses/30/lessons/42842 | 완전탐색  | 
+| 2025-05-13 | 영어 끝말잇기                | 2     | https://school.programmers.co.kr/learn/courses/30/lessons/12981 | 완전탐색  |
+| 2025-05-13 | 구명보트                     | 2     | https://school.programmers.co.kr/learn/courses/30/lessons/42885 | 탐욕법    |
+| 2025-05-14 | 단어변환                     | 2     | https://school.programmers.co.kr/learn/courses/30/lessons/43163 | BFS       |
+| 2025-05-14 | 프로세스                     | 2     | https://school.programmers.co.kr/learn/courses/30/lessons/42587 | 우선순위큐 |
+| 2025-05-15 | 게임 내 최단거리              | 2     | https://school.programmers.co.kr/learn/courses/30/lessons/1844  | BFS      |
