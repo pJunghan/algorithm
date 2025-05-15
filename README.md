@@ -25,6 +25,12 @@
 | 날짜       | 문제 제목                  | 난이도   | 풀이 링크                              | 비고        |
 |------------|----------------------------|----------|----------------------------------------|------------|
 | 2025-05-12 | H-Index                | 2     | https://school.programmers.co.kr/learn/courses/30/lessons/42747 | 정렬 |
-| 2025-05-12 | 의상                      | 2     | https://school.programmers.co.kr/learn/courses/30/lessons/42578 | 해시 |
-| 2025-05-13 | 전화번호목록                      | 2     | https://school.programmers.co.kr/learn/courses/30/lessons/42577 | 해시 |
-| 2025-05-13 | 베스트앨범                      | 3     | https://school.programmers.co.kr/learn/courses/30/lessons/42579 | 해시 |
+| 2025-05-12 | 의상                   | 2     | https://school.programmers.co.kr/learn/courses/30/lessons/42578 | 해시 |
+| 2025-05-13 | 전화번호목록           | 2     | https://school.programmers.co.kr/learn/courses/30/lessons/42577 | 해시 |
+| 2025-05-13 | 베스트앨범             | 3     | https://school.programmers.co.kr/learn/courses/30/lessons/42579 | 해시 |
+| 2025-05-15 | 가장 큰 수             | 2     | https://school.programmers.co.kr/learn/courses/30/lessons/42746 | 정렬 |
+| 2025-05-15 | 기능개발               | 2     | https://school.programmers.co.kr/learn/courses/30/lessons/42586 |스택/큐 |
+| 2025-05-15 | 올바른 괄호            | 2     | https://school.programmers.co.kr/learn/courses/30/lessons/12909 | 스택/큐 |
+| 2025-05-15 | 다리를 지나는 트럭     | 2     | https://school.programmers.co.kr/learn/courses/30/lessons/42583 | 스택/큐 |
+| 2025-05-16 | 더 맵게                | 2     | https://school.programmers.co.kr/learn/courses/30/lessons/42626 | 힙 |
+| 2025-05-16 | 디스크 컨트롤러        | 2     |https://school.programmers.co.kr/learn/courses/30/lessons/42627  | 힙 |
