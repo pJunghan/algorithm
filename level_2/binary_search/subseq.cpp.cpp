@@ -14,7 +14,6 @@ int find_legnth(v) {
 	return temp.size();
 }
 
-
 int main() {
 	int N;
 	cin >> N;
